@@ -3,10 +3,10 @@
 ### A Product-Aware iOS Engineer Focused on Building High-Impact Mobile Experiences.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/slwl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_UPWORK_URL" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~013a0820f386f136c9" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
   <a href="https://t.me/Sleywil" target="_blank">
