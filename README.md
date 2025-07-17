@@ -1,4 +1,4 @@
-# Hi there, I'm Sleywill 👋
+# Hi there, I'm Alex 👋
 
 ### A Product-Aware iOS Engineer Focused on Building High-Impact Mobile Experiences.
 
@@ -71,19 +71,4 @@ I'm a dedicated iOS Engineer with over 4 years of experience architecting high-p
 
 ---
 
-## 📊 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sleywill&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Sleywill's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleywill&layout=compact&theme=transparent&hide_border=true" alt="Sleywill's Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sleywill">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sleywill&theme=dark&hide_border=true" alt="Sleywill's GitHub Streak"/>
-  </a>
-</p>
