@@ -1,4 +1,4 @@
-# Alex 👋
+# Hi, i'm Alex 👋
 ### Results-Driven iOS Engineer | Swift Specialist | Modern App Architecture
 
 <div align="center">
