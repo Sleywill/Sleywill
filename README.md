@@ -106,7 +106,7 @@ I am passionate about integrating cutting-edge Apple frameworks to deliver excep
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/ARKit-Advanced-FF9800?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/><br/>
 <strong>ARKit</strong><br/>
-<small>Immersive AR Experiences</small>
+<small>AR Experiences</small>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/RealityKit-Proficient-E91E63?style=for-the-badge&logo=apple&logoColor=white" alt="RealityKit"/><br/>
