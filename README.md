@@ -40,17 +40,8 @@ let alex = Developer(
 <a href="https://github.com/Sleywill/snapapi-swift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=snapapi-swift&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138"/>
 </a>
-<a href="https://github.com/Sleywill/Krab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=Krab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/Sleywill/snapapi-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=snapapi-js&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138"/>
-</a>
-<a href="https://github.com/Sleywill/KrabWidget">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=KrabWidget&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138"/>
 </a>
 
 </div>
