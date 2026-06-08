@@ -1,20 +1,20 @@
 <!-- ════════════════════════  HERO  ════════════════════════ -->
 
 <a href="https://www.linkedin.com/in/slwl/">
-  <img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/banner.svg?v=2" width="100%" alt="Alex Serebryakov — iOS & Mobile Engineer · Full-stack · Founder"/>
+  <img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/banner.svg?v=3" width="100%" alt="Alex Serebryakov — iOS & Mobile Engineer · Full-stack · Founder"/>
 </a>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slwl/)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013a0820f386f136c9)
-[![SnapAPI](https://img.shields.io/badge/SnapAPI-FF6B35?style=for-the-badge&logo=apple&logoColor=white)](https://snapapi.pics)
+[![SnapAPI](https://img.shields.io/badge/SnapAPI-E81E63?style=for-the-badge&logo=apple&logoColor=white)](https://snapapi.pics)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sleywil)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slwv.dev@gmail.com)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1300&color=F7468A&center=true&vCenter=true&width=680&lines=iOS+is+home.+I+write+the+backend+and+infra+too.;Founder+of+SnapAPI+%E2%80%94+I+own+the+whole+system.;I+find+where+a+business+leaks+money%2C+then+code+the+fix.;Currently+picking+fights+with+the+Rust+borrow+checker.)](https://github.com/Sleywill)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1300&color=FF2E55&center=true&vCenter=true&width=680&lines=iOS+is+home.+I+write+the+backend+and+infra+too.;Founder+of+SnapAPI+%E2%80%94+I+own+the+whole+system.;I+find+where+a+business+leaks+money%2C+then+code+the+fix.;Currently+picking+fights+with+the+Rust+borrow+checker.)](https://github.com/Sleywill)
 
 </div>
 
@@ -28,11 +28,11 @@ The rest of the time I run my own things. I founded **[SnapAPI](https://snapapi.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=2" width="100%" alt="4+ years iOS · 6+ languages in production · 10+ SDKs & tools · 99.7% crash-free"/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=3" width="100%" alt="4+ years iOS · 6+ languages in production · 10+ SDKs & tools · 99.7% crash-free"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=3" width="100%" alt=""/>
 
 ## what i build
 
@@ -44,7 +44,7 @@ The rest of the time I run my own things. I founded **[SnapAPI](https://snapapi.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=3" width="100%" alt=""/>
 
 ## stack
 
@@ -70,23 +70,17 @@ Swift is home. Everything else I picked up because shipping a whole product mean
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=3" width="100%" alt=""/>
 
 ## off the clock
 
 Deep in **Warhammer 40K** — more the lore than the tabletop; I'll happily lose an evening to the Horus Heresy and argue the finer points of the Imperium. I run a **3D printer** to make the models myself, sink real hours into **video games**, and score most of it with **death metal and hardcore punk** loud enough to annoy the neighbours. Grimdark universes, over-engineered systems, fast guitars — turns out it's all the same itch as software architecture. ⚔️🤘
 
-<p>
-<img src="https://img.shields.io/badge/Warhammer_40K-9A1115?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/3D_Printing-00979D?style=for-the-badge&logo=prusa&logoColor=white"/>
-<img src="https://img.shields.io/badge/Video_Games-7A5CFF?style=for-the-badge&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/Death_Metal-101010?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardcore_Punk-C0392B?style=for-the-badge&logoColor=white"/>
-</p>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/interests.svg?v=1" width="100%" alt="Warhammer 40K · 3D Printing · Video Games · Death Metal · Hardcore Punk"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=3" width="100%" alt=""/>
 
 ## activity
 
