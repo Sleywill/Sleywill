@@ -1,0 +1,18 @@
+<svg width="1200" height="8" viewBox="0 0 1200 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#F7468A" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7A5CFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect y="3" width="1200" height="2" rx="1" fill="url(#d)"/>
+  <rect y="3" width="220" height="2" rx="1" fill="url(#spark)">
+    <animate attributeName="x" values="-220;1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

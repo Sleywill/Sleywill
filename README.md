@@ -1,215 +1,95 @@
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                      HEADER / BANNER                       │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
+<!-- ════════════════════════  HERO  ════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=210&section=header&text=Alex%20Serebryakov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=iOS%20Engineer%20%C2%B7%20Swift%20Specialist%20%C2%B7%20API%20%26%20SaaS%20Builder&descAlignY=56&descSize=18&descColor=f0f0f0" width="100%"/>
+<a href="https://www.linkedin.com/in/slwl/">
+  <img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/banner.svg?v=1" width="100%" alt="Alex Serebryakov — iOS & Mobile Engineer · Polyglot Builder · Founder"/>
+</a>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=F05138&center=true&vCenter=true&width=620&lines=4%2B+years+shipping+production+iOS+apps+%F0%9F%8D%8E;Swift+%C2%B7+SwiftUI+%C2%B7+UIKit+%C2%B7+Combine+%C2%B7+async%2Fawait;Author+of+SnapAPI+%E2%80%94+SDKs+in+10%2B+languages;Real-time%2C+offline-first%2C+99.7%25+crash-free;Open+to+remote+roles+%C2%B7+Tbilisi%2C+Georgia+%F0%9F%87%AC%F0%9F%87%AA)](https://github.com/Sleywill)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slwl/)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013a0820f386f136c9)
+[![SnapAPI](https://img.shields.io/badge/SnapAPI-FF6B35?style=for-the-badge&logo=apple&logoColor=white)](https://snapapi.pics)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sleywil)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slwv.dev@gmail.com)
-[![SnapAPI](https://img.shields.io/badge/SnapAPI-F05138?style=for-the-badge&logo=apple&logoColor=white)](https://snapapi.pics)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Sleywill&color=F05138&style=for-the-badge&label=PROFILE+VIEWS"/>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slwv.dev@gmail.com)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1300&color=F7468A&center=true&vCenter=true&width=680&lines=iOS+is+home.+I+write+the+backend+and+infra+too.;Founder+of+SnapAPI+%E2%80%94+I+own+the+whole+system.;I+find+where+a+business+leaks+money%2C+then+code+the+fix.;Currently+picking+fights+with+the+Rust+borrow+checker.)](https://github.com/Sleywill)
 
 </div>
 
 <br/>
 
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                         ABOUT                              │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
+Hey — I'm Alex. I build mobile apps and the machinery behind them, mostly from a desk in **Tbilisi 🇬🇪**.
 
-## &nbsp;`>`&nbsp; whoami
+**iOS is home base.** 4+ years of Swift in production, including building the entire iOS infrastructure for a casino platform (**FreeSpinz**) from an empty repo — and leading the devs who kept it running. I care about the parts users never notice: crash-free sessions, real-time that's actually real-time, and builds that don't fall over on a Friday.
 
-I'm **Alex** — an iOS engineer who likes the hard parts: real-time systems, clean architecture, and squeezing every millisecond out of the device. Over **4+ years and 4 companies** I've shipped apps across gaming, enterprise, and consumer, and driven stability to **99.7% crash-free** with **85%+ test coverage**.
-
-When I'm not in Xcode, I build **[SnapAPI](https://snapapi.pics)** — a screenshot / PDF / web-extraction API — and maintain its **official SDKs in 10+ languages**. Turns out shipping the same clean client in Swift, Kotlin, Go, Python, PHP, Ruby, Java and TypeScript teaches you a lot about good API design.
-
-```swift
-struct Engineer {
-    let name      = "Alex Serebryakov"
-    let role      = "iOS Engineer"
-    let location  = "Tbilisi, Georgia 🇬🇪"
-    let focus     = ["SwiftUI", "iOS Architecture", "Real-time & Concurrency"]
-    let building  = "SnapAPI — Screenshot, PDF & Web Extraction API"
-    let shipped   = ["gaming", "enterprise", "consumer"]
-    let openTo    = ["remote iOS roles", "open source", "hard problems"]
-}
-```
+The rest of the time I run my own things. I founded **[SnapAPI](https://snapapi.pics)** — a screenshot / PDF / web-extraction API that other developers build on — and I take **bespoke optimization work**: walk into a business, find where it bleeds time or money, and write the software that stops it. Right now I'm learning **Rust**, mostly because I like problems that bite back.
 
 <br/>
 
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                       TECH STACK                           │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
-
-## &nbsp;`>`&nbsp; toolbox
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%" valign="top">
-
-**Languages & UI**
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Obj--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**Architecture & Concurrency**
-
-![Combine](https://img.shields.io/badge/Combine-FF6B35?style=flat-square&logo=apple&logoColor=white)
-![async/await](https://img.shields.io/badge/async%2Fawait-00BCD4?style=flat-square&logo=swift&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF5722?style=flat-square)
-![Clean Arch](https://img.shields.io/badge/Clean_Architecture-9C27B0?style=flat-square)
-![VIPER](https://img.shields.io/badge/VIPER-6A1B9A?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-1565C0?style=flat-square)
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**Data · Test · DevOps**
-
-![Core Data](https://img.shields.io/badge/Core_Data-607D8B?style=flat-square&logo=apple&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![XCTest](https://img.shields.io/badge/XCTest-4CAF50?style=flat-square&logo=swift&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=1" width="100%" alt="4+ years iOS · 6+ languages in production · 10+ SDKs & tools · 99.7% crash-free"/>
 
 <br/>
 
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                    FEATURED PROJECTS                       │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
 
-## &nbsp;`>`&nbsp; featured work
+## what i build
 
-<div align="center">
-
-<a href="https://github.com/Sleywill/snapapi-swift">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=snapapi-swift&theme=transparent&hide_border=true&title_color=F05138&icon_color=F05138&text_color=8b949e"/>
-</a>
-<a href="https://github.com/Sleywill/snapapi-js">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=snapapi-js&theme=transparent&hide_border=true&title_color=F05138&icon_color=F05138&text_color=8b949e"/>
-</a>
-<a href="https://github.com/Sleywill/snapapi-kotlin">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=snapapi-kotlin&theme=transparent&hide_border=true&title_color=F05138&icon_color=F05138&text_color=8b949e"/>
-</a>
-<a href="https://github.com/Sleywill/Krab">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleywill&repo=Krab&theme=transparent&hide_border=true&title_color=F05138&icon_color=F05138&text_color=8b949e"/>
-</a>
-
-</div>
-
-> **🧩 The SnapAPI ecosystem** — one screenshot/PDF/extraction API, with first-class official SDKs:
-> [Swift](https://github.com/Sleywill/snapapi-swift) · [Kotlin](https://github.com/Sleywill/snapapi-kotlin) · [Java](https://github.com/Sleywill/snapapi-java) · [Go](https://github.com/Sleywill/snapapi-go) · [Python](https://github.com/Sleywill/snapapi-python) · [PHP](https://github.com/Sleywill/snapapi-php) · [Ruby](https://github.com/Sleywill/snapapi-ruby) · [JS/TS](https://github.com/Sleywill/snapapi-js) — plus a [CLI](https://github.com/Sleywill/snapapi-cli), an [MCP server](https://github.com/Sleywill/snapapi-mcp), [n8n nodes](https://github.com/Sleywill/n8n-nodes-snapapi) and a [GitHub Action](https://github.com/Sleywill/snapapi-screenshot-action). **500+ tests across the suite.**
+- **SnapAPI** — my product. A screenshot/PDF/extraction API with client SDKs in a stack of languages, so any dev can drop it in without running a headless browser themselves.
+- **FreeSpinz — iOS infrastructure** — built and led the iOS side of a full casino platform, end to end: architecture, real-time, the lot.
+- **DocForge** — a document-generation SaaS. The unglamorous kind of problem nobody wants to touch, which is exactly why it makes a decent business.
+- **Optimization systems for clients** — custom automations and internal tools that quietly make a business run leaner. No two are the same.
+- **A pile of Telegram bots & smaller tools** — the fastest way I know to actually learn a stack is to ship something annoying in it.
 
 <br/>
 
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                        STATS                               │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
 
-## &nbsp;`>`&nbsp; the numbers
+## stack
 
-<div align="center">
+Swift is home. Everything else I picked up because shipping a whole product means writing all of it — not just the pretty part.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sleywill&show_icons=true&theme=transparent&hide_border=true&title_color=F05138&icon_color=F05138&text_color=8b949e&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleywill&layout=compact&theme=transparent&hide_border=true&title_color=F05138&text_color=8b949e&langs_count=8"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sleywill&theme=transparent&hide_border=true&stroke=F05138&ring=F05138&fire=FF6B35&currStreakLabel=F05138&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)](https://git.io/streak-stats)
-
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Sleywill&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+</p>
 
 <br/>
 
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                  CONTRIBUTION SNAKE                        │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
 
-## &nbsp;`>`&nbsp; contribution activity
+## off the clock
+
+When I'm not shipping, I'm painting **Warhammer** minis — buying them faster than I paint them — reading 40K lore, or out on a paddleboard. I have a soft spot for systems with far too many rules. Turns out it's the same itch as software architecture. ⚔️
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/divider.svg?v=1" width="100%" alt=""/>
+
+## activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sleywill/Sleywill/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sleywill/Sleywill/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sleywill/Sleywill/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Sleywill/Sleywill/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sleywill&theme=react-dark&bg_color=00000000&hide_border=true&color=F05138&line=F05138&point=FF6B35&area=true&area_color=F05138"/>
-
 </div>
 
-<br/>
-
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │                       CURRENTLY                            │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
-
-## &nbsp;`>`&nbsp; right now
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**🔨 Building**
-- Scaling **[SnapAPI](https://snapapi.pics)** and its multi-language SDKs
-- Real-time & offline-first iOS features in the gaming space
-
-</td>
-<td valign="top" width="50%">
-
-**🌱 Exploring**
-- Swift 6 strict concurrency & actors
-- Apple Intelligence / on-device ML integration
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🤝 Open to**
-- Remote iOS roles (US / Canada / EU)
-- Open-source collaboration on Swift tooling
-
-</td>
-<td valign="top" width="50%">
-
-**💬 Ask me about**
-- SwiftUI architecture, WebSocket systems
-- Designing developer-friendly SDKs & APIs
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-> *"Make it work, make it right, make it fast — then make it crash-free."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=120&section=footer"/>
-
-</div>
+<sub>📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/slwl/) · [Upwork](https://www.upwork.com/freelancers/~013a0820f386f136c9) · [slwv.dev@gmail.com](mailto:slwv.dev@gmail.com) &nbsp;·&nbsp; based in Tbilisi, work anywhere.</sub>
