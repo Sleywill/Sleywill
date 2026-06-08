@@ -1,7 +1,7 @@
 <!-- ════════════════════════  HERO  ════════════════════════ -->
 
 <a href="https://www.linkedin.com/in/slwl/">
-  <img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/banner.svg?v=1" width="100%" alt="Alex Serebryakov — iOS & Mobile Engineer · Polyglot Builder · Founder"/>
+  <img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/banner.svg?v=2" width="100%" alt="Alex Serebryakov — iOS & Mobile Engineer · Full-stack · Founder"/>
 </a>
 
 <div align="center">
@@ -28,7 +28,7 @@ The rest of the time I run my own things. I founded **[SnapAPI](https://snapapi.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=1" width="100%" alt="4+ years iOS · 6+ languages in production · 10+ SDKs & tools · 99.7% crash-free"/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=2" width="100%" alt="4+ years iOS · 6+ languages in production · 10+ SDKs & tools · 99.7% crash-free"/>
 
 <br/>
 
@@ -74,7 +74,15 @@ Swift is home. Everything else I picked up because shipping a whole product mean
 
 ## off the clock
 
-When I'm not shipping, I'm painting **Warhammer** minis — buying them faster than I paint them — reading 40K lore, or out on a paddleboard. I have a soft spot for systems with far too many rules. Turns out it's the same itch as software architecture. ⚔️
+Deep in **Warhammer 40K** — more the lore than the tabletop; I'll happily lose an evening to the Horus Heresy and argue the finer points of the Imperium. I run a **3D printer** to make the models myself, sink real hours into **video games**, and score most of it with **death metal and hardcore punk** loud enough to annoy the neighbours. Grimdark universes, over-engineered systems, fast guitars — turns out it's all the same itch as software architecture. ⚔️🤘
+
+<p>
+<img src="https://img.shields.io/badge/Warhammer_40K-9A1115?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/3D_Printing-00979D?style=for-the-badge&logo=prusa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Video_Games-7A5CFF?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Death_Metal-101010?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardcore_Punk-C0392B?style=for-the-badge&logoColor=white"/>
+</p>
 
 <br/>
 

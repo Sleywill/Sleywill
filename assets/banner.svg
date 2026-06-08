@@ -1,116 +1,119 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Serebryakov — iOS and Mobile Engineer, Polyglot Builder, Founder">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Serebryakov — iOS and Mobile Engineer, Full-stack, Founder">
   <defs>
+    <!-- full-spectrum fill that always spans the whole wordmark -->
+    <linearGradient id="brandText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#FF8A4C"/>
+      <stop offset="38%" stop-color="#FF5E7E"/>
+      <stop offset="70%" stop-color="#E0489C"/>
+      <stop offset="100%" stop-color="#8A6CFF"/>
+    </linearGradient>
+    <!-- moving shimmer highlight -->
+    <linearGradient id="shine" x1="0" y1="0" x2="320" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"  stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        from="-420 0" to="1620 0" dur="6.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
     <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"  stop-color="#FF6B35"/>
-      <stop offset="45%" stop-color="#F7468A"/>
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#F7468A"/>
       <stop offset="100%" stop-color="#7A5CFF"/>
     </linearGradient>
 
-    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"   stop-color="#FF6B35"/>
-      <stop offset="25%"  stop-color="#F7468A"/>
-      <stop offset="50%"  stop-color="#7A5CFF"/>
-      <stop offset="75%"  stop-color="#F7468A"/>
-      <stop offset="100%" stop-color="#FF6B35"/>
-      <animateTransform attributeName="gradientTransform" type="translate"
-        from="-1200 0" to="1200 0" dur="9s" repeatCount="indefinite"/>
-    </linearGradient>
-
     <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FF6B35" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FF6B35" stop-opacity="0.50"/><stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7A5CFF" stop-opacity="0.50"/>
-      <stop offset="100%" stop-color="#7A5CFF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7A5CFF" stop-opacity="0.48"/><stop offset="100%" stop-color="#7A5CFF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="blobC" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F7468A" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#F7468A" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#F7468A" stop-opacity="0.42"/><stop offset="100%" stop-color="#F7468A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
     </radialGradient>
 
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="40"/>
-    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="42"/></filter>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <circle cx="1.2" cy="1.2" r="1.2" fill="#FFFFFF" fill-opacity="0.05"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
 
-    <clipPath id="round"><rect width="1200" height="360" rx="22"/></clipPath>
+    <clipPath id="round"><rect width="1200" height="360" rx="24"/></clipPath>
   </defs>
 
   <g clip-path="url(#round)">
-    <!-- base -->
     <rect width="1200" height="360" fill="#0A0D14"/>
     <rect width="1200" height="360" fill="url(#grid)"/>
 
-    <!-- drifting glow blobs -->
     <g filter="url(#soft)">
-      <circle cx="240" cy="120" r="150" fill="url(#blobA)">
+      <circle cx="250" cy="120" r="150" fill="url(#blobA)">
         <animate attributeName="cy" values="120;180;120" dur="11s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="240;300;240" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="250;310;250" dur="13s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="980" cy="250" r="170" fill="url(#blobB)">
+      <circle cx="960" cy="250" r="170" fill="url(#blobB)">
         <animate attributeName="cy" values="250;190;250" dur="12s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="980;920;980" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="960;900;960" dur="15s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="640" cy="60" r="130" fill="url(#blobC)">
-        <animate attributeName="cy" values="60;120;60" dur="14s" repeatCount="indefinite"/>
+      <circle cx="630" cy="70" r="130" fill="url(#blobC)">
+        <animate attributeName="cy" values="70;130;70" dur="14s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <!-- floating particles -->
+    <rect width="1200" height="360" fill="url(#vignette)"/>
+
+    <!-- particles -->
     <g fill="#FFFFFF">
       <circle cx="150" cy="300" r="1.6" opacity="0.5"><animate attributeName="cy" values="320;30" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="9s" repeatCount="indefinite"/></circle>
       <circle cx="430" cy="300" r="1.4" opacity="0.4"><animate attributeName="cy" values="340;20" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="12s" repeatCount="indefinite"/></circle>
-      <circle cx="760" cy="300" r="1.8" opacity="0.5"><animate attributeName="cy" values="330;40" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="10s" repeatCount="indefinite"/></circle>
+      <circle cx="770" cy="300" r="1.8" opacity="0.5"><animate attributeName="cy" values="330;40" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="10s" repeatCount="indefinite"/></circle>
       <circle cx="1050" cy="300" r="1.3" opacity="0.4"><animate attributeName="cy" values="350;30" dur="13s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="13s" repeatCount="indefinite"/></circle>
       <circle cx="900" cy="300" r="1.5" opacity="0.4"><animate attributeName="cy" values="345;25" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="11s" repeatCount="indefinite"/></circle>
     </g>
 
     <!-- kicker -->
-    <text x="600" y="120" text-anchor="middle" font-family="'SFMono-Regular', ui-monospace, 'JetBrains Mono', Consolas, monospace"
-          font-size="17" letter-spacing="6" fill="#9DA7B3">
-      iOS &amp; MOBILE  ·  POLYGLOT BUILDER  ·  FOUNDER
-      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
-    </text>
+    <text x="600" y="118" text-anchor="middle" font-family="'SFMono-Regular', ui-monospace, 'JetBrains Mono', Consolas, monospace"
+          font-size="16" letter-spacing="7" fill="#9DA7B3">iOS &amp; MOBILE · FULL-STACK · FOUNDER</text>
 
-    <!-- wordmark -->
-    <text x="600" y="212" text-anchor="middle" filter="url(#glow)"
+    <!-- wordmark: spectrum fill + glow, with shimmer overlay -->
+    <text x="600" y="210" text-anchor="middle" filter="url(#glow)"
           font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
-          font-size="78" font-weight="800" letter-spacing="2" fill="url(#sheen)">
-      ALEX SEREBRYAKOV
-    </text>
+          font-size="80" font-weight="800" letter-spacing="1.5" fill="url(#brandText)">ALEX SEREBRYAKOV</text>
+    <text x="600" y="210" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
+          font-size="80" font-weight="800" letter-spacing="1.5" fill="url(#shine)">ALEX SEREBRYAKOV</text>
 
     <!-- accent underline -->
-    <rect x="380" y="236" width="440" height="3" rx="1.5" fill="url(#brand)">
-      <animate attributeName="width" values="0;440" dur="1s" fill="freeze"/>
-      <animate attributeName="x" values="600;380" dur="1s" fill="freeze"/>
+    <rect x="370" y="234" width="460" height="3" rx="1.5" fill="url(#brand)">
+      <animate attributeName="width" values="0;460" dur="1s" fill="freeze"/>
+      <animate attributeName="x" values="600;370" dur="1s" fill="freeze"/>
     </rect>
 
-    <!-- subtitle -->
-    <text x="600" y="284" text-anchor="middle"
+    <text x="600" y="282" text-anchor="middle"
           font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
-          font-size="21" fill="#C9D1D9">
-      Swift specialist who ships across every stack — apps, APIs &amp; the systems behind them
-    </text>
+          font-size="21" letter-spacing="0.3" fill="#C9D1D9">Swift specialist who ships across the whole stack — apps, APIs &amp; the systems behind them</text>
 
     <!-- status pill -->
     <g>
-      <rect x="423" y="306" width="354" height="30" rx="15" fill="#10B98122" stroke="#10B981" stroke-opacity="0.5"/>
-      <circle cx="450" cy="321" r="4" fill="#10B981">
-        <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
-      </circle>
-      <text x="607" y="326" text-anchor="middle" font-family="'SFMono-Regular', ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#34D399">
-        AVAILABLE FOR WORK &amp; COLLABORATION
-      </text>
+      <rect x="423" y="306" width="354" height="30" rx="15" fill="#10B98120" stroke="#10B981" stroke-opacity="0.5"/>
+      <circle cx="450" cy="321" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="608" y="326" text-anchor="middle" font-family="'SFMono-Regular', ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#34D399">AVAILABLE FOR WORK &amp; COLLABORATION</text>
+    </g>
+
+    <!-- HUD corner brackets -->
+    <g stroke="url(#brand)" stroke-width="2" fill="none" opacity="0.55">
+      <path d="M20 44 L20 20 L44 20"/>
+      <path d="M1180 44 L1180 20 L1156 20"/>
+      <path d="M20 316 L20 340 L44 340"/>
+      <path d="M1180 316 L1180 340 L1156 340"/>
     </g>
   </g>
 
-  <rect x="0.5" y="0.5" width="1199" height="359" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
 </svg>
