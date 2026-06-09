@@ -1,4 +1,4 @@
-<svg width="1200" height="172" viewBox="0 0 1200 172" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact metrics: 4+ years production iOS, 50K+ users reached, 99.7% crash-free, 85%+ test coverage">
+<svg width="1200" height="172" viewBox="0 0 1200 172" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact: 4+ years production iOS, 20+ apps shipped, 1M+ users reached, 99.7% crash-free">
   <defs>
     <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF4D4D"/><stop offset="100%" stop-color="#E81E63"/></linearGradient>
     <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#E81E63"/><stop offset="100%" stop-color="#B5179E"/></linearGradient>
@@ -15,26 +15,26 @@
     <g clip-path="url(#c1)">
       <rect x="8" y="12" width="284" height="150" rx="18" fill="#120F18" stroke="#FFFFFF" stroke-opacity="0.06" filter="url(#cardglow)"/>
       <rect x="8" y="12" width="284" height="4" fill="url(#g1)"/>
-      <text x="150" y="95" text-anchor="middle" font-size="58" font-weight="800" fill="url(#g1)">4+</text>
+      <text x="150" y="94" text-anchor="middle" font-size="58" font-weight="800" fill="url(#g1)">4+</text>
       <text x="150" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Years shipping production iOS</text>
     </g>
     <g clip-path="url(#c2)">
       <rect x="308" y="12" width="284" height="150" rx="18" fill="#120F18" stroke="#FFFFFF" stroke-opacity="0.06" filter="url(#cardglow)"/>
       <rect x="308" y="12" width="284" height="4" fill="url(#g2)"/>
-      <text x="450" y="93" text-anchor="middle" font-size="52" font-weight="800" fill="url(#g2)">50K+</text>
-      <text x="450" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Users reached in production</text>
+      <text x="450" y="94" text-anchor="middle" font-size="58" font-weight="800" fill="url(#g2)">20+</text>
+      <text x="450" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Apps shipped to production</text>
     </g>
     <g clip-path="url(#c3)">
       <rect x="608" y="12" width="284" height="150" rx="18" fill="#120F18" stroke="#FFFFFF" stroke-opacity="0.06" filter="url(#cardglow)"/>
       <rect x="608" y="12" width="284" height="4" fill="url(#g3)"/>
-      <text x="750" y="93" text-anchor="middle" font-size="54" font-weight="800" fill="url(#g3)">99.7%</text>
-      <text x="750" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Crash-free sessions</text>
+      <text x="750" y="94" text-anchor="middle" font-size="56" font-weight="800" fill="url(#g3)">1M+</text>
+      <text x="750" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Users reached worldwide</text>
     </g>
     <g clip-path="url(#c4)">
       <rect x="908" y="12" width="284" height="150" rx="18" fill="#120F18" stroke="#FFFFFF" stroke-opacity="0.06" filter="url(#cardglow)"/>
       <rect x="908" y="12" width="284" height="4" fill="url(#g4)"/>
-      <text x="1050" y="93" text-anchor="middle" font-size="54" font-weight="800" fill="url(#g4)">85%+</text>
-      <text x="1050" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Test coverage maintained</text>
+      <text x="1050" y="93" text-anchor="middle" font-size="54" font-weight="800" fill="url(#g4)">99.7%</text>
+      <text x="1050" y="132" text-anchor="middle" font-size="15" letter-spacing="0.3" fill="#AEB7C2">Crash-free at scale</text>
     </g>
   </g>
 </svg>

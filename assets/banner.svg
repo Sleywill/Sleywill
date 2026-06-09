@@ -61,9 +61,9 @@
     <text x="600" y="282" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="21" letter-spacing="0.3" fill="#C9D1D9">Swift specialist who ships across the whole stack — apps, APIs &amp; the systems behind them</text>
 
     <g>
-      <rect x="423" y="306" width="354" height="30" rx="15" fill="#10B98118" stroke="#10B981" stroke-opacity="0.5"/>
-      <circle cx="450" cy="321" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-      <text x="608" y="326" text-anchor="middle" font-family="'SFMono-Regular', ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#34D399">AVAILABLE FOR WORK &amp; COLLABORATION</text>
+      <rect x="421" y="306" width="358" height="30" rx="15" fill="#10B98118" stroke="#10B981" stroke-opacity="0.5"/>
+      <circle cx="437" cy="321" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="615" y="326" text-anchor="middle" font-family="'SFMono-Regular', ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.2" fill="#34D399">AVAILABLE FOR WORK &amp; COLLABORATION</text>
     </g>
 
     <!-- cold steel-cyan HUD brackets: the cold counterpoint to the warm wordmark -->
