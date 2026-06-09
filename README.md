@@ -22,13 +22,13 @@
 
 Hey — I'm Alex. I build mobile apps and the machinery behind them, mostly from a desk in **Tbilisi 🇬🇪**.
 
-**iOS is home base.** 4+ years of Swift in production, including building the entire iOS infrastructure for a casino platform (**FreeSpinz**) from an empty repo — and leading the devs who kept it running. I care about the parts users never notice: crash-free sessions, real-time that's actually real-time, and builds that don't fall over on a Friday.
+**iOS is home base.** 4+ years of Swift in production. I built the entire iOS infrastructure for a **high-traffic casino platform** from an empty repo — real money on the line, real-time updates, zero tolerance for downtime — and led the devs who kept it running. I care about the parts users never notice: crash-free sessions, real-time that's actually real-time, and builds that don't fall over on a Friday.
 
 The rest of the time I run my own things. I founded **[SnapAPI](https://snapapi.pics)** — a screenshot / PDF / web-extraction API that other developers build on — and I take **bespoke optimization work**: walk into a business, find where it bleeds time or money, and write the software that stops it. Right now I'm learning **Rust**, mostly because I like problems that bite back.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=3" width="100%" alt="4+ years iOS · 6+ languages in production · 10+ SDKs & tools · 99.7% crash-free"/>
+<img src="https://raw.githubusercontent.com/Sleywill/Sleywill/main/assets/impact.svg?v=4" width="100%" alt="4+ years production iOS · 50K+ users reached · 99.7% crash-free · 85%+ test coverage"/>
 
 <br/>
 
@@ -37,7 +37,7 @@ The rest of the time I run my own things. I founded **[SnapAPI](https://snapapi.
 ## what i build
 
 - **SnapAPI** — my product. A screenshot/PDF/extraction API with client SDKs in a stack of languages, so any dev can drop it in without running a headless browser themselves.
-- **FreeSpinz — iOS infrastructure** — built and led the iOS side of a full casino platform, end to end: architecture, real-time, the lot.
+- **Casino platform — iOS infrastructure** — built and led the iOS side of a high-traffic iGaming platform end to end: architecture, real-time sync, money flows, release pipeline.
 - **DocForge** — a document-generation SaaS. The unglamorous kind of problem nobody wants to touch, which is exactly why it makes a decent business.
 - **Optimization systems for clients** — custom automations and internal tools that quietly make a business run leaner. No two are the same.
 - **A pile of Telegram bots & smaller tools** — the fastest way I know to actually learn a stack is to ship something annoying in it.
